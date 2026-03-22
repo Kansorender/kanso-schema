@@ -1,0 +1,166 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is product rendering and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Product rendering is the process of creating photorealistic images of a product using 3D software, without the need for physical photography. A 3D model is built or imported, then materials, textures, lighting, and environments are applied to simulate how the product looks in real life. At Kanso Render, we use industry-leading software to produce renders indistinguishable from real photography, giving brands a faster and more cost-effective alternative to traditional photo shoots."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does professional product rendering cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost varies depending on the complexity of the product, number of images, and level of detail. Simple products with clean backgrounds can start at a few hundred dollars per image, while complex projects with custom environments or animations range higher. At Kanso Render, we offer tailored pricing based on your project needs. Reach out with your brief for an accurate quote."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a product rendering project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A straightforward product render can typically be completed within 3 to 5 business days. More complex projects involving multiple products, custom scenes, or animations may take 1 to 3 weeks. At Kanso Render, we establish clear timelines from the start and ensure delivery without compromising quality. Rush turnarounds are available upon request."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What file formats and resolutions do you deliver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kanso Render delivers final images in PNG, JPEG, and TIFF formats. All renders are delivered at high resolution, typically 300 DPI for print and optimized for digital and web use. Layered PSD files or transparent background versions are available upon request. We are happy to accommodate any specific format or resolution requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you create product renders without a physical prototype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. All we need are your design files, technical drawings, or CAD files to build an accurate 3D model. This makes rendering ideal for products still in development, pre-launch campaigns, or crowdfunding projects where a physical sample is not yet available. It allows brands to start visual marketing early, saving time and production costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between product rendering and product photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Product photography requires a physical product, studio setup, and a photographer, making reshoots expensive. Product rendering is done entirely in 3D software, so colors, materials, and lighting can be adjusted quickly at a fraction of the cost. Rendering also allows for scenarios impossible to photograph, such as exploded views, cutaway sections, or placing a product in a virtual environment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer 360° or animated product renders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Kanso Render offers both 360° product renders and animated product videos. A 360° render lets viewers see the product from every angle, ideal for e-commerce. Animated renders bring the product to life through motion, showcasing features static images cannot. Both are highly effective for marketing campaigns, product launches, and social media content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is architectural visualization and why do I need it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Architectural visualization is the process of creating photorealistic 3D images or animations of a building or space before it is built. Using architectural plans or design files, a 3D environment is constructed to show exactly how a project will look once completed. It helps secure approvals, attract investors, support marketing, and reduce costly design changes during construction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does architectural rendering cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the size and complexity of the project, number of views, and level of realism needed. A single exterior render for a residential project can start at a few hundred dollars, while large commercial projects can range into the thousands. At Kanso Render, we provide custom quotes based on your requirements. Share your plans and brief for an accurate price."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does an arch-viz project take from brief to delivery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A single exterior render can typically be completed within 5 to 7 business days. Larger projects with multiple views or walkthrough animations can take 2 to 6 weeks depending on detail required. At Kanso Render, we establish a clear timeline at the start of every project and keep clients updated throughout. Rush delivery is available for time-sensitive projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to provide to start an architectural rendering project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We typically need architectural drawings, floor plans, elevations, and reference images or mood boards. CAD files, Revit models, or SketchUp files are also helpful. The more detail you provide upfront, the closer the final render will be to your vision. If you are in the early stages, our team is happy to guide you on what is needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between architectural rendering and a floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A floor plan is a two-dimensional technical drawing showing the layout of a space from a top-down view. Architectural rendering transforms that into a photorealistic 3D image showing exactly how the space will look with accurate materials, lighting, and atmosphere. It is a far more powerful tool for client presentations, marketing, and design approvals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you render both interior and exterior spaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Kanso Render specializes in both interior and exterior architectural visualization. Interior renders capture atmosphere, materials, and spatial flow, ideal for residential, hospitality, and commercial interiors. Exterior renders showcase architecture, landscaping, and surrounding environment. Many clients request both as part of a complete visualization package."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer virtual tours or walkthrough animations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Kanso Render offers both virtual tours and walkthrough animations. A walkthrough animation is a cinematic video guiding the viewer through a space in a dynamic way. Virtual tours allow users to interactively explore a space at their own pace, ideal for real estate marketing and client presentations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get started with Kanso Render?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting started is simple. Reach out through the contact form on our website, email us at hello@kansorender.com, or message us on WhatsApp. We will discuss your project, request necessary files, and provide a custom quote and timeline. Whether you have a fully developed brief or just an early idea, we guide you through every step."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you work with international clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Kanso Render works with clients from around the world. Our workflow is fully remote and collaborative, allowing us to work with brands, architects, and agencies regardless of location. We have completed projects for clients across Europe, the Middle East, the USA, and beyond."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many revision rounds are included?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kanso Render typically includes two to three rounds of revisions covering adjustments to lighting, materials, camera angles, and composition. Additional rounds can be arranged and will be discussed transparently before any extra work begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What industries do you serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kanso Render serves product brands, e-commerce businesses, packaging companies, cosmetics and beauty brands, consumer electronics, furniture and home decor, architects, real estate developers, interior designers, and hospitality groups."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I see examples of past projects before committing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Kanso Render has an extensive portfolio available on our website and across Instagram, Behance, and LinkedIn, covering product rendering, interior visualization, exterior rendering, and animation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you use AI to create your renders and visualizations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Kanso Render uses AI both as a supporting tool within our 3D workflow and as a standalone service for creating fully AI-generated images and videos. This gives clients the flexibility to choose the approach that best fits their budget, timeline, and creative goals."
+      }
+    }
+  ]
+}
